@@ -36,26 +36,26 @@ async def init():
     await app.start()
     for all_module in ALL_MODULES:
         importlib.import_module("FlashX-Music.plugins" + all_module)
-    LOGGER("FlashX-Music.plugins").info("𝐀𝐥𝐥 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 𝐋𝐨𝐚𝐝𝐞𝐝 𝐁𝐚𝐛𝐲🥳...")
+    LOGGER("FlashX-Music.plugins").info("လုပ်ဆောင်ချက်အောင်မြင်ပါသည်...")
     await userbot.start()
     await DAXX.start()
     try:
-        await DAXX.stream_call("https://te.legra.ph/file/29f784eb49d230ab62e9e.mp4")
+        await DAXX.stream_call("https://te.legra.ph/file/fc75fef760c29e8ccdf8b.mp4")
     except NoActiveGroupCall:
         LOGGER("FlashX-Music").error(
-            "𝗣𝗹𝗭 𝗦𝗧𝗔𝗥𝗧 𝗬𝗢𝗨𝗥 𝗟𝗢𝗚 𝗚𝗥𝗢𝗨𝗣 𝗩𝗢𝗜𝗖𝗘𝗖𝗛𝗔𝗧\𝗖𝗛𝗔𝗡𝗡𝗘𝗟\n\n𝗗𝗔𝗫𝗫 𝗕𝗢𝗧 𝗦𝗧𝗢𝗣........"
+            "Please turn on the videochat of your log group\channel.\n\nStopping Bot..."
         )
         exit()
     except:
         pass
     await DAXX.decorators()
     LOGGER("FlashX-Music").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗠𝗥 𝗗𝗔𝗫𝗫☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "ချန်နယ်ဂရုကိုဝင်ခြင်းဖြင့်ကူညီပါ..."
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("FlashX-Music").info("𝗦𝗧𝗢𝗣 𝗗𝗔𝗫𝗫 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("FlashX-Music").info("မြူးဇက်ဘော့အားရပ်တန့်လိုက်သည်....")
 
 
 if __name__ == "__main__":
