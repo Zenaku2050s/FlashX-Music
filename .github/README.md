@@ -14,7 +14,7 @@
 GO TO [RELOAD.PY](https://github.com/Zenaku2050s/FlashX-Music/blob/Master/FlashX-Music/plugins/tools/reload.py) THEN CHANGE MY ID NUMBER 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4abd6e0f613946553de53.jpg">
+  <img src="https://telegra.ph/file/e69ee26e970b904123dba.jpg">
 </p>
 
 <p align="center">
