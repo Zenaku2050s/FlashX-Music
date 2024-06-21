@@ -1,12 +1,12 @@
 {
-    "name": "𝙳𝙰𝚇𝚇 𝙼𝚄𝚂𝙸𝙲",
+    "name": "ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/dbb3222d0fd3712e2a0e4.jpg",
+    "logo": "https://te.legra.ph/file/e69ee26e970b904123dba.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "DAXX",
+    "Flash",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "1318826936",
         "required": true
       },
       "OWNER_ID": {
