@@ -16,9 +16,9 @@ EVAL = list(map(int, getenv("EVAL", "1318826936 6510897583").split()))
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","NhoeKyaiteKaungLayy")
+OWNER_USERNAME = getenv("OWNER_USERNAME","WangLin2K5")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "sasukexmusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "sasukevipmusicbot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "ꜱᴀꜱᴜᴋᴇ ✘ ᴍᴜꜱɪᴄ")
 # ---------------------------------------------------------
